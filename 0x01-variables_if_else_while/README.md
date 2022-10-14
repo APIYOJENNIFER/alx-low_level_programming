@@ -4,3 +4,5 @@
 3. Print the alphabet in lowercase, and then in uppercase, followed by a new line
 4. Print all letters except q and e
 5. Print all single digit numbers of base 10 starting from 0, followed by a new line
+6.
+7. Print the lowercase alphabet in reverse, followed by a new line
