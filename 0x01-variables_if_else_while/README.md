@@ -2,3 +2,4 @@
 1. Print the last digit of the number stored in the variable
 2. Print the alphabet in lowercase
 3. Print the alphabet in lowercase, and then in uppercase, followed by a new line
+4. Print all letters except q and e
