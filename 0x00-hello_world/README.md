@@ -5,3 +5,4 @@
 4. Print exactly "Programming is like building a multilingual puzzle, followed by a new line
 5. Print text followed by a new line
 6. Print the size of various types on the computer it is compiled and run on
+7. Generate the assembly code (Intel syntax) of a C code and save it in an output file
