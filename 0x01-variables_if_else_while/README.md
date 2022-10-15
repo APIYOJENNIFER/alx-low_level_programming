@@ -8,3 +8,4 @@
 7. Print the lowercase alphabet in reverse, followed by a new line
 8. Print all the numbers of base 16 in lowercase, followed by a new line
 9. Print all possible combinations of single-digit numbers
+10. Print all possible different combinations of two digits
