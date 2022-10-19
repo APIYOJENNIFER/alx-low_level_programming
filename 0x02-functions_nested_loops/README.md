@@ -5,3 +5,4 @@
 4. Check for alphabetic character, lowercase or uppercase
 5. Print the sign of a number
 6. Compute the absolute value of an integer
+7. Print the last digit of a number
