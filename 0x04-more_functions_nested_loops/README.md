@@ -2,3 +2,4 @@
 1. Check for a digit (0 - 9)
 2. Multiply two integers
 3. Print the numbers 0 - 9
+4. Print the numbers 0 - 9 except 2 and 4
