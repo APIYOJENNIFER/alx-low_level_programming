@@ -8,3 +8,4 @@
 7. Print the last digit of a number
 8. Print every minute of the day of Jack Bauer, starting from 00:00 to 23:59
 9. Print the 9 times table, starting with 0
+10. Add  two integers and returns the result
