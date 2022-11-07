@@ -6,3 +6,4 @@
 5. Locate a substring
 6. Print the chessboard
 7. Print the sum of the two diagonals of a square matrix of integers
+8. Set the value of a pointer to a char
