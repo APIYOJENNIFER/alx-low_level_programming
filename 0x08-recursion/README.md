@@ -5,3 +5,4 @@
 4. Return the value of x raised to the power of y
 5. Return the natural square root of a number
 6. Check for prime number
+7. Check for palindrome
