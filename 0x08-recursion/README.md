@@ -6,3 +6,4 @@
 5. Return the natural square root of a number
 6. Check for prime number
 7. Check for palindrome
+8. Compare two strings and returns 1 if the strings can be considered identical, otherwise return 0
