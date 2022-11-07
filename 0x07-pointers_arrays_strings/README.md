@@ -5,3 +5,4 @@
 4. Search a string for any of a set of bytes
 5. Locate a substring
 6. Print the chessboard
+7. Print the sum of the two diagonals of a square matrix of integers
