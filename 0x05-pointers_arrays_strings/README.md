@@ -3,3 +3,4 @@
 2. Return length of a string
 3. Print a string, followed by new line
 4. Print a string in reverse, follwed by a new line
+5. Reverse a string
