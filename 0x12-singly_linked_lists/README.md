@@ -4,3 +4,4 @@
 3. Add a new node at the end of a list
 4. Free a list
 5. Print string before main is executed
+6. 64-bit assembly program that prints hello world
