@@ -9,3 +9,4 @@
 8. Sum of all the data(n) of a linked list
 9. Insert a new node at a given position
 10. Delete node at a given index
+11. Reverse a linked list
