@@ -6,3 +6,4 @@
 5. Free a list
 6. Delete the head node of linked list
 7. Return the nth node of a linked list
+8. Sum of all the data(n) of a linked list
