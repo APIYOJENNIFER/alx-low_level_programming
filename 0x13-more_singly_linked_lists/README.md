@@ -5,3 +5,4 @@
 4. Free a list
 5. Free a list
 6. Delete the head node of linked list
+7. Return the nth node of a linked list
