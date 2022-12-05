@@ -3,3 +3,4 @@
 2. Add a new node at the beginning of a list
 3. Add a new node at the end of a list
 4. Free a list
+5. Free a list
